@@ -64,3 +64,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Características Principales
+
+- Búsqueda avanzada de empleo con filtros personalizables.
+- Visualización de detalles de trabajo, requisitos y beneficios.
+- Selección de expectativas salariales.
+
+## Tecnologías Utilizadas
+
+- Frontend: Livewire, Tailwind CSS.
+- Backend: Laravel, Livewire, Breeze.
+- Base de Datos: MySQL. 
+
+
+
+
